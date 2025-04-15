@@ -12,6 +12,8 @@ El proyecto "Sistema de Pase de Lista ITSMT" fue desarrollado para la asignatura
 - Gestión de sistemas (Escolarizado y Mixto)
 - Gestión de asignaturas.
 
+![System Home](https://github.com/HLBrandon/asistencia/blob/7a8cf6d865ce0f8a57c97fc40cc96174e730490f/screenshots/screen_1.png)
+
 ## Tecnologías implementadas
 En el desarrollo del proyecto "Sistema de Pase de Lista" se emplearon diversas tecnologías que facilitaron su implementación. Se utilizó el lenguaje de programación PHP 8.2 junto con HTML y CSS básico para la creación de la estructura y el diseño. Bootstrap fue la herramienta principal para estilizar las vistas, proporcionando un diseño limpio y responsivo. Además, se hizo uso de JS, destacando el uso de la librería jQuery para manipular elementos dinámicos y mejorar la interactividad. Para el almacenamiento de datos, se optó por una base de datos en MySQL, utilizando un enfoque procedimental de programación que permitió una organización eficiente y estructurada.
 
