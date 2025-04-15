@@ -17,6 +17,12 @@ El proyecto "Sistema de Pase de Lista ITSMT" fue desarrollado para la asignatura
 ## Tecnologías implementadas
 En el desarrollo del proyecto "Sistema de Pase de Lista" se emplearon diversas tecnologías que facilitaron su implementación. Se utilizó el lenguaje de programación PHP 8.2 junto con HTML y CSS básico para la creación de la estructura y el diseño. Bootstrap fue la herramienta principal para estilizar las vistas, proporcionando un diseño limpio y responsivo. Además, se hizo uso de JS, destacando el uso de la librería jQuery para manipular elementos dinámicos y mejorar la interactividad. Para el almacenamiento de datos, se optó por una base de datos en MySQL, utilizando un enfoque procedimental de programación que permitió una organización eficiente y estructurada.
 
+- [Bootstrap](https://getbootstrap.com/ "Bootstrap").
+- [jQuery](https://jquery.com/ "jQuery").
+- [SweetAlert2](https://sweetalert2.github.io/ "SweetAlert2").
+- [PHPSpreadsheet](https://phpspreadsheet.readthedocs.io/en/latest/ "PHPSpreadsheet").
+- [FPDF](https://www.fpdf.org/ "FPDF").
+
 ### Instalación
 Tras descargar o clonar el repositorio, es necesario ejecutar el comando `composer install` desde la terminal. Es importante asegurarse de estar dentro del directorio que contiene el proyecto y de tener Composer instalado previamente. De esta forma, se descargarán las dependencias de [PHPSpreadsheet](https://phpspreadsheet.readthedocs.io/en/latest/ "PHPSpreadsheet") y [FPDF](https://www.fpdf.org/ "FPDF").
 
@@ -24,7 +30,7 @@ En la carpeta `database/asistencia_app.sql` se encuentra el archivo SQL de la ba
 
 Dentro de la carpeta `config/config.php` se encuentran las variables de configuración del sistema, las cuales son:
 
-- Definición de la zona horaica e idioma.
+- Definición de la zona horaria e idioma.
 - Definición de la raiz del proyecto y las siglas de la institución.
 - Definición de las variables para la conexión de la base de datos.
 
