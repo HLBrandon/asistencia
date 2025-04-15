@@ -28,6 +28,8 @@ Dentro de la carpeta `config/config.php` se encuentran las variables de configur
 - Definición de la raiz del proyecto y las siglas de la institución.
 - Definición de las variables para la conexión de la base de datos.
 
+![Configure File](https://github.com/HLBrandon/asistencia/blob/5cdc2c69cc8400cc0f59e34b995f3af4da26a11d/screenshots/screen_2.png)
+
 ### Credenciales del Administrador
 - Correo: programador@example.com
 - Contraseña: Admin123
